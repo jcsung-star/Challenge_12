@@ -27,19 +27,10 @@ To use this application simply clone the repository and run credit_risk_resampli
 ---
 
 ## Sample Visualization and Metrics
-
-![install](Images/google_colab.PNG)
-![install](Images/install_google_colab.PNG)
-![upload](Images/file_uploaded_read_csv.PNG)
-![search](Images/search_trends.PNG)
-![heatmap](Images/heatmap.PNG)
-![close_first_half](Images/close_first_half.PNG)
-![variable_search](Images/variable_search_trends_first_half.PNG)
-![plot_predict](Images/plot_predictions.PNG)
-![yhat](Images/yhat_yhat_upper_yhat_lower_hvplot.PNG)
-![fig](Images/fig_mercado.PNG)
-![plot_predict](Images/plot_predictions_mercado_sales.PNG)
-![likely_worst_best](Images/most_likely_worst_case_best_case.PNG)
+![y_v_cl](Images/y_value_counts.PNG)
+![original](Images/original_data_results.PNG)
+![y_r_v_cl](Images/y_resampled_value_counts.PNG)
+![resampled](Images/resampled_data_results.PNG)
 
 ---
 
@@ -52,3 +43,5 @@ linkedin.com/in/john-sung-3675569
 ## License
 
 MIT
+
+---
