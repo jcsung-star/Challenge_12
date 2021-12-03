@@ -17,8 +17,6 @@ I split the data into training and testing datasets using train_test_split. I fi
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
 LogisticRegression was run for both the original data and the resampled data. The original data included an imbalanced data set. By using the resampling method, the value count were resampled to reflect 56271 for both healthy loans and high risk loans from 75036 for healthy loans 2500 count of high risk loans respectively. 
  
-
-
 ## Results
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
