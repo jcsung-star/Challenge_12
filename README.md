@@ -22,9 +22,17 @@ To use this application simply clone the repository and run credit_risk_resampli
 ---
 
 ## Sample Visualization and Metrics
+
+Value Counts for original dataset...
 ![y_v_cl](Images/y_value_counts.PNG)
+
+Balance Accuracy, Confision Matrix & Classification Report of original dataset
 ![original](Images/original_data_results.PNG)
+
+Value Counts for resampled dataset...
 ![y_r_v_cl](Images/y_resampled_value_counts.PNG)
+
+Balance Accuracy, Confision Matrix & Classification Report of Resampled dataset
 ![resampled](Images/resampled_data_results.PNG)
 
 ---

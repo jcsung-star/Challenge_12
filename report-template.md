@@ -32,7 +32,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Machine Learning Model 2:
     * Description of Model 2 Accuracy, Precision, and Recall scores. 
     - By using the RandomOverSampler module to resample the data, Model 2 had a balance accuracy score improves to 0.99. 
-    - The initial imblance is corrected by this test where the valaue counts of y-resamppled is 56271 for 0 (healthy loans) and 1 (high risk loans). 
+    - While the precision of the healthy loans remains 100%, the initial imblance is corrected by this test where the valaue counts of y-resamppled is 56271 for 0 (healthy loans) and 1 (high risk loans). 
 
     ![resampled](Images/classification_report_module_resampled_data.PNG)
 
